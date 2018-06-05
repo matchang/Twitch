@@ -9,7 +9,7 @@
 		"enableTwitchEmoticon": true,
 		"TwitchEmoticonsize": "1.0",
 		"streamer": {
-			"twitch": "matchang2",
+			"twitch": "맏창",
 			"kakaopot": "(카카오닉네임)",
 			"youtube": "(유튜브채널명)"
 		},
@@ -44,7 +44,7 @@
 			"use": false
 		},
 		"dccon": {
-			"use": false
+			"use": false,
 			"config": {
 				"address": "https://lastorder-dc.github.io/ChatAssistX-Client/dccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
@@ -87,7 +87,7 @@
 		"mixer": {
 			"use": false,
 			"config": {
-				"channelid": matchang2
+				"channelid": 164900
 			}
 		}
 	}
