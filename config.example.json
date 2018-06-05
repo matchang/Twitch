@@ -79,7 +79,7 @@
 		"JSAssist": {
 			"use": true,
 			"config": {
-				"oauth": "live_58942063_aHMjqDNYG6QyZL5oSlfFVHcW7MINwV",
+				"oauth": "",
 				"config.do_not_use_tapic" : true,
 				"do_not_use_jsassist": false,
 				"channelname": "matchang2"
