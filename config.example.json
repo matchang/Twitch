@@ -79,10 +79,10 @@
 		"JSAssist": {
 			"use": true,
 			"config": {
-				"oauth": "",
+				"oauth": "live_58942063_aHMjqDNYG6QyZL5oSlfFVHcW7MINwV",
 				"config.do_not_use_tapic" : false,
 				"do_not_use_jsassist": true,
-				"channelname": "lastorder_dc"
+				"channelname": "matchang2"
 			}
 		},
 		"mixer": {
