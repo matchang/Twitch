@@ -81,7 +81,7 @@
 			"config": {
 				"oauth": "",
 				"config.do_not_use_tapic" : true,
-				"do_not_use_jsassist": false,
+				"config.do_not_use_jsassist": false,
 				"channelname": "matchang2"
 			}
 		},
