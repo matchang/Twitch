@@ -9,7 +9,7 @@
 		"enableTwitchEmoticon": true,
 		"TwitchEmoticonsize": "1.0",
 		"streamer": {
-			"twitch": "(트위치닉네임)",
+			"twitch": "(matchang2)",
 			"kakaopot": "(카카오닉네임)",
 			"youtube": "(유튜브채널명)"
 		},
@@ -44,7 +44,7 @@
 			"use": false
 		},
 		"dccon": {
-			"use": true,
+			"use": false,
 			"config": {
 				"address": "https://lastorder-dc.github.io/ChatAssistX-Client/dccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
@@ -81,13 +81,13 @@
 			"config": {
 				"oauth": "",
 				"do_not_use_tapic": false,
-				"channelname": "lastorder_dc"
+				"channelname": "matchang2"
 			}
 		},
 		"mixer": {
 			"use": false,
 			"config": {
-				"channelid": 164900
+				"channelid": matchang2
 			}
 		}
 	}
