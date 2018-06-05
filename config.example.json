@@ -44,7 +44,7 @@
 			"use": false
 		},
 		"dccon": {
-			"use": false,
+			"use": false
 			"config": {
 				"address": "https://lastorder-dc.github.io/ChatAssistX-Client/dccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
