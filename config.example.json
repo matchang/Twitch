@@ -80,9 +80,8 @@
 			"use": true,
 			"config": {
 				"oauth": "",
-				"do_not_use_tapic": false,
-				"do_not_use_jsassist": true,
-				"channelname": "matchang2"
+				"do_not_use_jsassist": false,
+				"channelname": "lastorder_dc"
 			}
 		},
 		"mixer": {
