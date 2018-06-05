@@ -80,7 +80,8 @@
 			"use": true,
 			"config": {
 				"oauth": "",
-				"do_not_use_tapic": false,
+				"do_not_use_tapic": true,
+				"do_not_use_jsassist": false,
 				"channelname": "matchang2"
 			}
 		},
